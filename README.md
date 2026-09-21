@@ -465,7 +465,7 @@ I am open to:
 </a>
 
 <a href="https://github.com/zamorproaidev">
-  <img src="https://img.shields.io/badge/GitHub-zamormp--collab-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-ZAMOR-ProAI-Dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/50937619743?text=Hello%20Zamor%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.">
