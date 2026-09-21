@@ -413,7 +413,7 @@ I am currently focused on strengthening my expertise in:
 <p align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=zamormp-collab&theme=tokyonight&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=zamorproaidev&theme=tokyonight&hide_border=true"
 />
 
 </p>
