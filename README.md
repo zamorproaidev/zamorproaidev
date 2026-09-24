@@ -339,13 +339,15 @@ Successfully completed training in:
 - UML and the Design Patterns
 - Programming in C-Sharp
 - Oracle
-- Network
+- Linux
+- Windows Server
 - LISt Processor (LISP)
 - Programming in Java
 - Web Development Tool (HTML, PHP, MySql)
 - Visual Basic
 - Information System
 - Database Management System
+- Network Insfrastructure
 - Computer Troubleshooting
 - Operating System
 - Programming in C++
