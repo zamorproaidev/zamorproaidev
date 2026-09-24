@@ -24,12 +24,12 @@
 
 <p align="center">
 
-  <a href="https://github.com/zamormp-collab">
-    <img src="https://komarev.com/ghpvc/?username=zamormp-collab&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/zamorproaidev">
+    <img src="https://komarev.com/ghpvc/?username=zamorproaidev&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 
-  <a href="https://github.com/zamormp-collab">
-    <img src="https://img.shields.io/github/followers/zamormp-collab?label=Followers&style=flat" />
+  <a href="https://github.com/zamorproaidev">
+    <img src="https://img.shields.io/github/followers/zamorproaidev?label=Followers&style=flat" />
   </a>
 
 </p>
