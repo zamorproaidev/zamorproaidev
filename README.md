@@ -256,11 +256,11 @@ ADMIN
 
 ### 🎥 Project Demonstration
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=xeMALrxA7XY">
+  <a href="https://www.youtube.com/watch?v=w1RzThwoeic" target="_blank">
     <img 
       src="https://img.youtube.com/vi/xeMALrxA7XY/maxresdefault.jpg"
       alt="SmartSol Demo"
-      width="70%"
+      width="75%"
     />
   </a>
 </p>
